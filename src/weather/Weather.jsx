@@ -4,7 +4,7 @@ import cloud from '../images/cloud.png';
 import rain from '../images/heavy-rain.png';
 import mist from '../images/fog.png';
 import haze from '../images/haze.png';
-import cloudy from '../images/Cloudy.png';
+import cloudy from '../images/cloudy.png';
 import tornado from '../images/nature.png';
 import storm from '../images/storm.png';
 import smoke from '../images/smoke.png';
